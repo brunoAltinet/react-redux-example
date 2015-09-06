@@ -2,13 +2,13 @@ module.exports = {
     targetDirectory: 'cordova-dist',
     cordovaServePort: 3131,
     app: {
-        namespace: 'com.swen.reactjs.cordova',
+        namespace: 'com.altinet.redux.cordova',
         version: '0.0.1',
-        name: 'react-reflux-cordova',
-        description: 'A React Cordova Reflux Starter',
+        name: 'react-redux-cordova',
+        description: 'A React Cordova Redux example',
         author: {
-            name: 'Sven Roeterdink',
-            website: 'https://github.com/swennemans',
+            name: 'Bruno Samardzic',
+            website: 'http://www.altinet.hr',
             email: ''
         },
         accessOrigin: '*',

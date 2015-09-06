@@ -1,16 +1,17 @@
 {
-  "name": "react-reflux-webkit-cordova",
+  "name": "react-redux-example",
   "version": "0.0.1",
-  "description": "Starter for reflux-react with webkit hot reloads and cordova/phonegap option",
+  "description": "React redux example app",
   "keywords": [
     "react",
     "starterkit",
     "frontend",
     "boilerplate",
-    "reflux",
+    "redux",
     "react-router",
     "hot-reload",
-    "cordova"
+    "cordova",
+    "material-ui"
   ],
   "main": "index.html",
   "scripts": {
