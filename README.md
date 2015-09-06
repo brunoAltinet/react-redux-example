@@ -3,12 +3,12 @@
 This example app is an up-to-date showcase of following libraries: [gulp](https://github.com/gulpjs/gulp), [stylus](https://github.com/LearnBoost/stylus), [webpack](https://github.com/webpack/webpack),
 [react-hot-loader](https://github.com/gaearon/react-hot-loader),
 [babel](https://github.com/babel/babel) for ES6 syntax and .jsx handling.
-[Redux](https://github.com/rackt/react-redux) is used for the dataflow and the routing is managed with the [React-Router](https://github.com/rackt/react-router).
+[Redux](https://github.com/rackt/react-redux) is used for the dataflow and the routing is managed with the [React-Router](https://github.com/rackt/react-router). Controls and layout by [Material UI](http://material-ui.com/#/).
 
 
 
 
-An example application based on [gulp](https://github.com/gulpjs/gulp), [stylus](https://github.com/LearnBoost/stylus) and [webpack](https://github.com/webpack/webpack). The internal data flow is handled with [Redux](https://github.com/rackt/react-redux) and routing with [React-Router](https://github.com/rackt/react-router).
+An example application based on [Material UI](http://material-ui.com/#/), [gulp](https://github.com/gulpjs/gulp), [stylus](https://github.com/LearnBoost/stylus) and [webpack](https://github.com/webpack/webpack). The internal data flow is handled with [Redux](https://github.com/rackt/react-redux) and routing with [React-Router](https://github.com/rackt/react-router).
 
 ## Install
 
