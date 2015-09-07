@@ -29,3 +29,4 @@ node_modules
 
 #jetbrains stuff
 .idea
+build/
