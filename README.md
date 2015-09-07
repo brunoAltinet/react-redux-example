@@ -1,5 +1,7 @@
 # React Redux sample app
 
+App demo: http://brunoaltinet.github.io/react-redux-example/demo/
+
 This example app is an up-to-date showcase of following libraries: [gulp](https://github.com/gulpjs/gulp), [stylus](https://github.com/LearnBoost/stylus), [webpack](https://github.com/webpack/webpack),
 [react-hot-loader](https://github.com/gaearon/react-hot-loader),
 [babel](https://github.com/babel/babel) for ES6 syntax and .jsx handling.
